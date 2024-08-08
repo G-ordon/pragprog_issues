@@ -1,0 +1,23 @@
+
+Added my elixir code
+
+my project progress upto now
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 3b27fe5
+# Last command done (1 command done):
+#    pick 41ae193 Added my elixir code
+# Next command to do (1 remaining command):
+#    pick 4dba911 added a github project
+# You are currently rebasing branch 'main' on '3b27fe5'.
+#
+# Changes to be committed:
+#	new file:   .formatter.exs
+#	new file:   .gitignore
+#	new file:   issues
+
+
+
+^
