@@ -1,5 +1,4 @@
 defmodule Issues.CLI do
-
   @default_count 4
   def parse_args(argv) do
     parse = OptionParser.parse(argv, switches: [ help: :boolean],
@@ -14,7 +13,7 @@ defmodule Issues.CLI do
     _                                  -> :help
     end
   end
-  def run(argv) do
+  def main(argv) do
     argv
     |> parse_args
     |> process
